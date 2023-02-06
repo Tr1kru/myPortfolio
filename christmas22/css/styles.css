@@ -1,0 +1,182 @@
+/* CSS Document */
+
+/* CSS Browser Reset */
+body, header, nav, main, footer, h1, h2, div, img, ul, li {
+	margin: 0%;
+	padding: 0%;
+}
+
+html {
+	box-sizing: border-box;
+}
+/* Header ------------- */
+header {
+	background-color: red;
+	box-sizing: inherit;
+	margin: 0;
+    padding: 0;
+	
+}
+
+header nav {
+	display: inline-block;
+	margin: 1px;
+    padding: 1px;
+	min-height: 60px;
+    font-size: 2em;
+}
+
+header nav a {
+	text-decoration: none;
+	padding: 26px 29px 10px 15px; 
+}
+
+header nav:hover {
+    background-color: black;
+}
+
+header nav ul {
+	color: black;
+	display: inline-block;
+	lst-style: none;
+	margin: 0;
+	padding: 10px 0 10px 0;
+	
+}
+
+header nav ul li {
+	display: inline-block;
+	margin-right: 10px;
+}
+/* Body--------------- */
+body {
+	margin: 0;
+    padding: 0;
+    background-color: red;
+}
+
+img {
+	margin: 0px;
+	padding: 0px;
+	width: 500px;
+	height: 500px;
+}
+
+p {
+	color: white;
+}
+/* Main------------------ */
+main {
+	background-color: black;
+	
+}
+main section h2 {
+	background: red;
+	text-align: center;
+	color: black;
+	padding: 25px 0px;
+	margin: 35 0 0 0;
+	text-decoration: none;
+}
+
+main #item1 {
+	min-height: 200px;
+	min-width: 400px;
+	background-image: url("../images/3326747977_837a2321c5_o.jpg");
+	background-size: cover;
+	
+}
+
+main #item2 {
+	min-height: 200px;
+	min-width: 400px;
+	background-image: url("../images/starDestroyer.jpg");
+	background-size: cover;
+}
+
+main #item3 {
+	min-height: 200px;
+	min-width: 400px;
+	background-image: url("../images/deathStar.jpg");
+	background-size: cover;
+}
+
+main #item4 {
+	min-height: 200px;
+	min-width: 400px;
+	background-image: url("../images/MillenniumFalcon.jpg");
+	background-size: cover;
+}
+
+main #item5 {
+	min-height: 200px;
+	min-width: 400px;
+	background-size: cover;
+}
+
+main #item6 {
+	min-height: 200px;
+	min-width: 400px;
+	background-size: cover;
+}
+
+main #item7 {
+	min-height: 200px;
+	min-width: 400px;
+	background-size: cover;
+}
+
+main #item8 {
+	min-height: 200px;
+	min-width: 400px;
+	background-size: cover;
+}
+
+main #item9 {
+	min-height: 200px;
+	min-width: 400px;
+	background-size: cover;
+}
+
+
+/* Footer ------------ */
+footer {
+	background-color: red;
+	box-sizing: inherit;
+	margin: 0;
+    padding: 0;
+}
+
+footer nav {
+ background-color: red;
+ display: inline-block;
+ margin: 1px;
+ padding: 1px;
+ min-height: 60px;
+ font-size: 2em;
+ 
+}
+
+footer nav a {
+	text-decoration: none;
+	padding: 26px 37px 10px 15px; 
+}
+
+footer nav:hover {
+	background-color: black;
+		text-decoration: underline;
+}
+
+footer nav ul {
+	color: black;
+	display: inline-block;
+	lst-style: none;
+	margin: 0;
+	padding: 10px 0 10px 0;
+}
+
+footer nav ul li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
