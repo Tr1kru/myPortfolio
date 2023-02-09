@@ -12,6 +12,8 @@ head {
 
 body {
     background-color: #29b6f6;
+	margin: 0;
+	padding: 0;
 }
 
 header h1 h2 {
@@ -74,7 +76,7 @@ p {
 }
 
 #item2 {
-    
+    background-image: url("../images/3121667371_96cc7a1ac3_o.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-weight: bold;
@@ -124,4 +126,9 @@ section {
 	color: lightskyblue;
 	text-decoration: none;
 	font-size: 1.5em;
+}
+
+.fnav:hover {
+	text-decoration: underline;
+	color: white;
 }
