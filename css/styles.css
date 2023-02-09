@@ -4,7 +4,7 @@ head {
 }
 
 body {
-    background-color: lightblue;
+    background-color: black;
 }
 
 header h1 {
@@ -12,6 +12,26 @@ header h1 {
 }
 
 main {
+    color: blue;
+}
+
+#container {
+    color: blue;
+}
+
+#item1 {
+    
+}
+
+#item2 {
+
+}
+
+#item3 {
+
+}
+
+.webProjects {
 
 }
 
