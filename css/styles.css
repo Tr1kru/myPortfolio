@@ -1,15 +1,47 @@
 
 head {
-    
+    color: white;
 }
 
 body {
     background-color: black;
 }
 
-header h1 {
+header h1 h2 {
+    color: white;
+    margin: 5%;
+    padding: 0;
+    text-align: center;
 
 }
+
+.hnav {
+	padding: 5px 0;
+	width: 100%;
+	background-color: white;
+	min-height: 50px;
+    color: black;
+}
+
+.hnav ul {
+	display: block;
+	text-align: center;
+}
+
+.hnav ul li {
+	display: inline-block;
+	list-style: none;
+	width: 15%;
+	background-color: white;
+	margin-top: .8%;
+}
+
+.hnav a {
+	color: white;
+	text-decoration: none;
+	font-size: 1.5em;
+}
+
 
 main {
     color: blue;
@@ -17,6 +49,15 @@ main {
 
 #container {
     color: blue;
+    margin: 0 auto;
+    padding: 2%;
+    width: 80%;
+    font-size: 1em;
+    
+}
+
+p {
+    font-size: 1.5em;
 }
 
 #item1 {
@@ -24,10 +65,21 @@ main {
 }
 
 #item2 {
-
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+    min-height: 25px;
+    margin: 0;
+    padding: 25px 25px;
 }
 
+
 #item3 {
+    
+}
+
+#item4 {
 
 }
 
@@ -37,4 +89,30 @@ main {
 
 section {
 
+}
+
+.fnav {
+	padding: 5px 0;
+	width: 100%;
+	background-color: black;
+	min-height: 50px;
+}
+
+.fnav ul {
+	display: block;
+	text-align: center;
+}
+
+.fnav ul li {
+	display: inline-block;
+	list-style: none;
+	width: 15%;
+	background-color: white;
+	margin-top: .8%;
+}
+
+.fnav a {
+	color: white;
+	text-decoration: none;
+	font-size: 1.5em;
 }
