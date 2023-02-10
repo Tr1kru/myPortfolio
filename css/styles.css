@@ -6,6 +6,10 @@ html, body, header, h1, h2, h3, nav, main, footer {
 	border: 0;
 }
 
+title {
+	text-align: center;
+}
+
 head {
     color: white;
 }
@@ -71,7 +75,7 @@ p {
     font-size: 1.5em;
 }
 
-#item1 {
+#Who I am {
     
 }
 
