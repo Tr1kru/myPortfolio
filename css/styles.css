@@ -23,7 +23,7 @@ body {
 header h1 h2 {
     color: white;
 	box-sizing: inherit;
-	margin: 0;
+	margin: 10px 0;
     padding: 0;
     text-align: center;
 
@@ -61,6 +61,10 @@ main {
     color: blue;
     width: 100%;
 	min-height: 500px;
+}
+
+button {
+	font-size: 2em;
 }
 
 #container {
