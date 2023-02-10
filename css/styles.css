@@ -22,7 +22,8 @@ body {
 
 header h1 h2 {
     color: white;
-    margin: 5%;
+	box-sizing: inherit;
+	margin: 0;
     padding: 0;
     text-align: center;
 
@@ -83,7 +84,7 @@ p {
 	color: #29b6f6;
 }
 
-#Who I am {
+#WhoIam {
 	min-height: 25px;
     margin: 0;
     padding: 25px 25px;
@@ -102,6 +103,7 @@ p {
     min-height: 25px;
     margin: 0;
     padding: 25px 25px;
+	color: white;
 }
 
 #Project3 {
@@ -116,6 +118,7 @@ p {
 	min-height: 25px;
     margin: 0;
     padding: 25px 25px;
+	color: white;
 }
 
 .webprojects {
