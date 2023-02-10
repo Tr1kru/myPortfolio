@@ -20,11 +20,11 @@ body {
 	padding: 0;
 }
 
-header h1 h2 {
+header h1, header h2 {
     color: white;
 	box-sizing: inherit;
 	margin: 10px 0;
-    padding: 0;
+    padding: 15px 15px;
     text-align: center;
 
 }
@@ -93,7 +93,7 @@ p {
 	color: #29b6f6;
 }
 
-#WhoIam {
+.WhoIam {
 	min-height: 25px;
     margin: 0;
     padding: 25px 25px;
