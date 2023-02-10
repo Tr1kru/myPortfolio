@@ -63,7 +63,7 @@ main {
 }
 
 #container {
-    color: blue;
+    color: #29b6f6;
     margin: 0 auto;
     padding: 2%;
     width: 80%;
@@ -75,8 +75,19 @@ p {
     font-size: 1.5em;
 }
 
+#About {
+	min-height: 25px;
+    margin: 0;
+    padding: 25px 25px;
+	background-color: white;
+	color: #29b6f6;
+}
+
 #Who I am {
-    
+	min-height: 25px;
+    margin: 0;
+    padding: 25px 25px;
+	color: #29b6f6;
 }
 
 #item2 {
