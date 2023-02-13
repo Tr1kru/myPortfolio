@@ -85,7 +85,7 @@ p {
     font-size: 1.5em;
 }
 
-#About {
+#objective {
 	min-height: 25px;
     margin: 0;
     padding: 25px 25px;
@@ -93,14 +93,14 @@ p {
 	color: #29b6f6;
 }
 
-.WhoIam {
+.education {
 	min-height: 25px;
     margin: 0;
     padding: 25px 25px;
 	color: white;
 }
 
-#Project1 {
+#skills {
     background-color: white;
 	color: #29b6f6;
 	min-height: 25px;
@@ -108,27 +108,13 @@ p {
     padding: 25px 25px;
 }
 
-#Project2 {
+#experience {
     min-height: 25px;
     margin: 0;
     padding: 15px 25px;
 	color: white;
 }
 
-#Project3 {
-	background-color: white;
-	color: #29b6f6;
-	min-height: 25px;
-    margin: 0;
-    padding: 25px 25px;
-}
-
-#Project4 {
-	min-height: 25px;
-    margin: 0;
-    padding: 25px 25px;
-	color: white;
-}
 
 .webprojects {
 
