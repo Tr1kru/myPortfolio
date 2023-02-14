@@ -106,6 +106,10 @@ p {
 	min-height: 25px;
     margin: 0;
     padding: 25px 25px;
+	background-image: url(../beagles/images/home_beagle.jpg);
+	min-height: 200px;
+	min-width: 400px;
+	background-size: cover;
 }
 
 #Project2 {
@@ -113,6 +117,10 @@ p {
     margin: 0;
     padding: 15px 25px;
 	color: white;
+	background-image: url(../forwardFitness/images/forward-fitness-logo.png);
+	min-height: 200px;
+	min-width: 400px;
+	background-size: cover;
 }
 
 #Project3 {
@@ -121,6 +129,10 @@ p {
 	min-height: 25px;
     margin: 0;
     padding: 25px 25px;
+	background-image: url(../christmas22/images/3326747977_837a2321c5_o.jpg);
+	min-height: 200px;
+	min-width: 400px;
+	background-size: cover;
 }
 
 #Project4 {
