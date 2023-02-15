@@ -29,6 +29,10 @@ header h1, header h2 {
 
 }
 
+h6 {
+	font-weight: bold;
+}
+
 .hnav {
 	padding: 5px 0;
 	width: 100%;
