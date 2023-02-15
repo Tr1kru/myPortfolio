@@ -118,8 +118,8 @@ p {
     padding: 15px 25px;
 	color: white;
 	background-image: url(../forwardFitness/images/forward-fitness-logo.png);
-	min-height: 200px;
-	min-width: 400px;
+	min-height: 100px;
+	min-width: 200px;
 	background-size: cover;
 }
 
@@ -129,7 +129,6 @@ p {
 	min-height: 25px;
     margin: 0;
     padding: 25px 25px;
-	background-image: url(../christmas22/images/3326747977_837a2321c5_o.jpg);
 	min-height: 200px;
 	min-width: 400px;
 	background-size: cover;
@@ -165,7 +164,7 @@ section {
 .fnav ul li {
 	display: inline-block;
 	list-style: none;
-	width: 30%;
+	width: 15%;
 	background-color: white;
 	margin-top: .8%;
 }
